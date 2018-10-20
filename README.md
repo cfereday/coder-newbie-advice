@@ -3,7 +3,7 @@
 ## About
 
 This repository of files has been created to be a useful source of information for people interested in learning to code. 
-You don't have to spend a lot of money to learn to code. There are many free resources and groups that can help you learn to code. Don't let money stop you.
+You don't have to spend a lot of money to learn to code. There are many free resources and groups that can help you. Don't let money stop you.
 
 It's starting as a series of mark down files, but the plan is to turn it into a website.
 
