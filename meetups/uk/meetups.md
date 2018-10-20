@@ -61,4 +61,12 @@
 
 * [London Tech Meetups](http://londontechmeetups.com/)
     * Excellent resource with a comprehensive list of London Tech meetups
+* [London Clojurians](https://www.meetup.com/London-Clojurians/)
+    * Weekly meetup to learn Clojure  
+    
+    
+### Glasgow
+
+* [Glasgow Clojurians](https://www.meetup.com/Glasgow-Software-Development-Meetup/)
+    * Monthly meetup to learn Clojure   
     
