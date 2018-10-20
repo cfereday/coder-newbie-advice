@@ -4,6 +4,7 @@
 ## For underrepresented groups
 
 ### Across UK & Ireland
+
 * [Code First Girls: Free Community Courses](https://www.codefirstgirls.org.uk/free-community-courses.html)
     * Courses run at specific times of year: Spring, Summer, Autumn
     * Courses run in a classroom style of max 30 students to min 2 Instructors    
@@ -35,6 +36,7 @@
    
 
 ### London 
+
 * [London Tech Meetups](http://londontechmeetups.com/#underrepresented)
     * Excellent resource with a comprehensive list of London Tech meetups
     
@@ -56,6 +58,7 @@
 
 
 ### London
+
 * [London Tech Meetups](http://londontechmeetups.com/)
     * Excellent resource with a comprehensive list of London Tech meetups
     
