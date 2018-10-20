@@ -10,7 +10,7 @@ It's starting as a series of mark down files, but the plan is to turn it into a 
 The current information I've collated includes:
 * Meetup groups where you can learn to code for free
 * Free Bootcamps
-* Free online resources for learning to code & tech tests, interviews & cvs
+* Free online resources for learning to code, podcasts, tech tests, interviews & cvs
 
 
 ## Contribute
