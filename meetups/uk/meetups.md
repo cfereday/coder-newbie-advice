@@ -22,6 +22,10 @@
     * See [upcoming events](https://nodegirls.com/events.html)
     * Tutorials on [Beginners' JavaScript & Introduction to Node.js & Express here](https://nodegirls.com/resources.html)
     
+* [Code Your Future](https://codeyourfuture.io/)
+    * Evening coding school for refugees
+    * HTML & CSS, JavaScript, Node.js, React
+    
 * [Clojure Bridge](https://clojurebridge.org/)
     * Whole day event offering a beginners intro to Clojure
 
@@ -33,7 +37,7 @@
     
 * [Rust Bridge]( https://rustbridge.github.io/)
     * Whole day event offering a beginners intro to Rust
-   
+  
 
 ### London 
 
@@ -61,7 +65,7 @@
 
 * [London Tech Meetups](http://londontechmeetups.com/)
     * Excellent resource with a comprehensive list of London Tech meetups
-    
+        
 * [London Clojurians](https://www.meetup.com/London-Clojurians/)
     * Weekly meetup to learn Clojure  
     
