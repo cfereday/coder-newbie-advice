@@ -17,6 +17,6 @@ The current information I've collated includes:
 
 Feel like something's missing? Please open a PR to contribute. 
 
-I've added organisations and resources that I'm aware of, but unfortunately I don't know of everything out there. Especially meetup groups outside of London. 
+I've added organisations and resources that I'm aware of, but unfortunately this can't be an exhaustive list as I don't know of everything out there.
 
 Please help to share any knowledge you have by growing this repository.
