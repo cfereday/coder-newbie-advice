@@ -1,7 +1,7 @@
 #Bootcamps
 
 
-##London 
+## London 
 * [Founders & Coders](https://foundersandcoders.com/):
     * 16 week bootcamp
     * Fullstack Node & JavaScript, Engineering project
@@ -36,14 +36,14 @@
     * Hiring Partners 
     
     
-##Birmingham 
+## Birmingham 
 * [School of Code](https://www.schoolofcode.co.uk/)
     * 16 week bootcamp 
     * Full stack Node & JavaScript, Engineering project
     * Hiring partners 
 
 
-##Manchester 
+## Manchester 
 * [Northcoders Apprenticeship](https://northcoders.com)
     * 14 months 
     * 3 months with employer, 3-4 months developer pathway, 9-10 months with employer

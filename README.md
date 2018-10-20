@@ -1,6 +1,6 @@
 # coder-newbie-advice
 
-#About
+## About
 
 This repository of files has been created to be a useful source of information for people interested in learning to code. 
 
@@ -12,7 +12,8 @@ The current information I've collated includes:
 * Free online resources 
 
 
-#Contribute
+## Contribute
+
 Feel like something's missing? Please open a PR to contribute. 
 
 I've added organisations and resources that I'm aware of, but unfortunately I don't know of everything out there. Especially meetup groups outside of London. 
