@@ -3,13 +3,14 @@
 ## About
 
 This repository of files has been created to be a useful source of information for people interested in learning to code. 
+You don't have to spend a lot of money to learn to code. There are many free resources and groups that can help you learn to code. Don't let money stop you.
 
 It's starting as a series of mark down files, but the plan is to turn it into a website.
 
 The current information I've collated includes:
-* Meetup groups where you can learn to code for free (especially in London)
+* Meetup groups where you can learn to code for free
 * Free Bootcamps
-* Free online resources 
+* Free online resources for learning to code & tech tests, interviews & cvs
 
 
 ## Contribute
