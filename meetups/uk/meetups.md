@@ -68,6 +68,9 @@
         
 * [London Clojurians](https://www.meetup.com/London-Clojurians/)
     * Weekly meetup to learn Clojure  
+
+* [London Software Craftmanship](https://www.meetup.com/london-software-craftsmanship/)
+    * Hands on sessions for software crafters 
     
     
 ### Glasgow
