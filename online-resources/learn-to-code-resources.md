@@ -2,6 +2,7 @@
 
 ## Resources for many languages
 
+* [Learn To Program (by Chris Pine)](https://pine.fm/LearnToProgram/)
 * [Code First Girls: Teach Yourself](https://www.codefirstgirls.org.uk/teach-yourself.html)
 * [Free Code Camp](https://learn.freecodecamp.org/)
 * [Exercism.io](http://exercism.io/)
@@ -13,7 +14,11 @@
 * [10 day bootcamp intro to tech](https://learn.skillcrush.com/skillcrush-10-day-bootcamp/)
 * [Resources for women arriving at or returning to IT](https://insimpleterms.blog/2017/10/13/resources-for-women-arriving-at-or-returning-to-it/)
 
+
 ## JavaScript & Node
 
 * [Beginner's JavaScript](https://node-girls.gitbook.io/beginners-javascript)
 * [Introduction to Node JS & Express](https://node-girls.gitbook.io/intro-to-express)
+
+## Data Science
+* [The open source data science Masters](http://datasciencemasters.org/)
