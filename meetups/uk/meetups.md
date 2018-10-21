@@ -58,7 +58,8 @@
     * Monthly Code & Chill sessions
     * Series of [tutorials](https://home.blackgirl.tech/)
      
- 
+ * [Women Drive Development](http://womendrivendev.org)
+    *  Hackathons
 
 ## For all groups
 
@@ -86,7 +87,7 @@
 ### Glasgow
 
 * [Glasgow Clojurians](https://www.meetup.com/Glasgow-Software-Development-Meetup/)
-    * Monthly meetup to learn Clojure  
-  
-  [Python Glasgow](https://www.meetup.com/Python-Glasgow/)
+   * Monthly meetup to learn Clojure   
+    
+* [Python Glasgow](https://www.meetup.com/Python-Glasgow/)
    * Monthly meetup to learn Python  
