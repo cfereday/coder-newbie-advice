@@ -4,9 +4,12 @@
 
 * [Code First Girls: Teach Yourself](https://www.codefirstgirls.org.uk/teach-yourself.html)
 * [Free Code Camp](https://learn.freecodecamp.org/)
+* [The Odin Project](https://www.theodinproject.com/home)
 * [Exercism.io](http://exercism.io/)
 * [Codewars](https://www.codewars.com/)
 * [Codebar Tutorials](http://tutorials.codebar.io/)
+* [Khan Academy - Computing](https://www.khanacademy.org/computing)
+* [Codecademy](https://www.codecademy.com/)
 * [Awesome Koans](https://github.com/ts25504/awesome-koans)
 * [Base CS](https://medium.com/basecs)
 * [Free online university courses](https://medium.freecodecamp.org/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04)
