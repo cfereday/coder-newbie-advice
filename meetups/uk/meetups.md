@@ -48,7 +48,8 @@
     * Monthly Code & Chill sessions
     * Series of [tutorials](https://home.blackgirl.tech/)
      
- 
+ * [Women Drive Development](http://womendrivendev.org)
+    *  Hackathons
 
 ## For all groups
 
