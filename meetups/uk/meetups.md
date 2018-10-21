@@ -82,7 +82,9 @@
 
 * [London Software Craftmanship](https://www.meetup.com/london-software-craftsmanship/)
     * Hands on sessions for software crafters 
-    
+
+* [Algorithmic Art](https://www.meetup.com/Algorithmic-Art/)
+    * Monthly meetup about maths & code making art
     
 ### Glasgow
 
