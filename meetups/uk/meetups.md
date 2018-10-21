@@ -5,6 +5,10 @@
 
 ### Across UK & Ireland
 
+* [Afrotech Fest](https://www.afrotechfest.co.uk/)
+   * A tech festival by and for Black people of African and Caribbean heritage
+
+
 * [Code First Girls: Free Community Courses](https://www.codefirstgirls.org.uk/free-community-courses.html)
     * Courses run at specific times of year: Spring, Summer, Autumn
     * Courses run in a classroom style of max 30 students to min 2 Instructors    
