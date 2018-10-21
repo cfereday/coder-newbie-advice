@@ -5,6 +5,10 @@
 
 ### Across UK & Ireland
 
+* [Afrotech Fest](https://www.afrotechfest.co.uk/)
+   * A tech festival by and for Black people of African and Caribbean heritage
+
+
 * [Code First Girls: Free Community Courses](https://www.codefirstgirls.org.uk/free-community-courses.html)
     * Courses run at specific times of year: Spring, Summer, Autumn
     * Courses run in a classroom style of max 30 students to min 2 Instructors    
@@ -22,6 +26,9 @@
     * See [upcoming events](https://nodegirls.com/events.html)
     * Tutorials on [Beginners' JavaScript & Introduction to Node.js & Express here](https://nodegirls.com/resources.html)
     
+* [Pyladies](http://www.pyladies.com/) 
+    * Monthly meetup to learn Python, based in [Edinburgh](https://www.meetup.com/PyLadiesEdinburgh/) & [London](https://www.meetup.com/pyladieslondon/)
+    
 * [Code Your Future](https://codeyourfuture.io/)
     * Evening coding school for refugees
     * HTML & CSS, JavaScript, Node.js, React
@@ -38,6 +45,9 @@
 * [Rust Bridge]( https://rustbridge.github.io/)
     * Whole day event offering a beginners intro to Rust
   
+* [Tech Mums](http://techmums.co/)
+    * Tech Taster & Python learning
+
 
 ### London 
 
@@ -77,5 +87,7 @@
 ### Glasgow
 
 * [Glasgow Clojurians](https://www.meetup.com/Glasgow-Software-Development-Meetup/)
-    * Monthly meetup to learn Clojure   
+   * Monthly meetup to learn Clojure   
     
+* [Python Glasgow](https://www.meetup.com/Python-Glasgow/)
+   * Monthly meetup to learn Python  
