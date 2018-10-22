@@ -101,6 +101,7 @@
 * [Why's (poignant) guide to Ruby](https://poignant.guide/book/)
 * [Learn Ruby the hard way](https://learnrubythehardway.org/)
 * [Ruby Monstas](http://rubymonstas.org/)
+* [Ruby Koans](http://rubykoans.com/)
 
 ## Python
 
@@ -122,5 +123,11 @@
 
 * [Goodui](https://goodui.org/)
 
+## C#
+
+* [C# Fundamentals for absolute Beginners](https://mva.microsoft.com/en-us/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949)
+* [Learn C#](https://learncs.org/)
+* [C# Fundamentals: Development for absolute Beginners](https://channel9.msdn.com/Series/C-Sharp-Fundamentals-Development-for-Absolute-Beginners)
+* [.NET Core C# Koans](https://github.com/NotMyself/DotNetCoreKoans)
 
 
