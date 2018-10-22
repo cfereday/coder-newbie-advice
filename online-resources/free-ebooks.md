@@ -6,3 +6,6 @@
 
 ## Python
 * [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
+
+## Ruby
+* [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
