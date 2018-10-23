@@ -70,6 +70,9 @@
  
 * [Open Tech Calendar](https://opentechcalendar.co.uk/event)
  * Filter your searches to find meetups for specific interests & areas
+ 
+* [iamtheCode Digital Club](http://www.iamthecode.org/)
+   * Clubs run by organisers across the world using the [Digital Wheel](http://www.iamthecode.org/digital-wheel/). Safe space for girls and women, a group of boys and girls. 
 
 
 ### London
