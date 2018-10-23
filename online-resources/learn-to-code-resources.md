@@ -31,6 +31,7 @@
 * [DeVry Bootcamp](https://www.devry.edu/)
 
 * [EdX](https://www.edx.org/)
+* [Egghead.io](https://egghead.io/)
 * [Enlight](https://tryenlight.github.io/)
 * [Enki](https://play.google.com/store/apps/details?id=com.enki.insights&hl=en_GB)
 * [Everyone can code](https://www.apple.com/uk/everyone-can-code/)
@@ -39,10 +40,12 @@
 * [Famous.co](https://famous.co/)
 * [Free Code Camp](https://learn.freecodecamp.org/)
 * [Free online university courses](https://medium.freecodecamp.org/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04)
+* [Frontend Masters](https://frontendmasters.com/)
 
 * [Khan Academy - Computing](https://www.khanacademy.org/computing)
 
 * [Learn to code](https://aartik1.github.io/index.html)
+* [LinkedIn Learning](https://www.linkedin.com/learning/) // The same content as on Lynda.com, but you get Premium LinkedIn account with it
 * [Lynda.com](http://www.lynda.com/)
 
 * [MYnd Kraft](https://www.myndkraft.games/)
