@@ -9,6 +9,28 @@
 * [Notes to a Junior Developer from a Tech Lead](https://medium.com/@charlottebrf/notes-to-a-junior-developer-from-a-tech-lead-599e4ab7aac4)
 * [Unicornelia blog](http://unicornelia.com/coding-resources/)
 
+## Resources with certificates options
+* [Codelabs](https://codelabs.developers.google.com/)
+* [Coursera](https://www.coursera.org/)
+
+* [DeVry Bootcamp](https://www.devry.edu/)
+* [EdX](https://www.edx.org/)
+
+* [Free Code Camp](https://learn.freecodecamp.org/)
+* [Free online university courses](https://medium.freecodecamp.org/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04)
+
+* [LinkedIn Learning](https://www.linkedin.com/learning/) // The same content as on Lynda.com, but you get Premium LinkedIn account with it
+* [Lynda.com](http://www.lynda.com/)
+
+* [Sitepoint](https://www.sitepoint.com/)
+
+* [Team Treehouse](https://teamtreehouse.com/)
+* [The Odin Project](https://www.theodinproject.com/home)
+
+* [Udacity Nanodegrees](https://eu.udacity.com/nanodegree)
+* [Udemy](https://www.udemy.com/)
+
+
 
 ## Resources for many languages
 * [Alternativeto](https://alternativeto.net/software/rubymonk/)
@@ -22,16 +44,12 @@
 * [Code Avengers](https://www.codeavengers.com/)
 * [CodeHS - Various Languages](https://codehs.com/info/curriculum)
 * [Code Kingdoms](https://codekingdoms.com/)
-* [Codelabs](https://codelabs.developers.google.com/)
 * [Code.org](https://code.org/)
-* [Coursera](https://www.coursera.org/)
 * [Code First Girls: Teach Yourself](https://www.codefirstgirls.org.uk/teach-yourself.html)
 * [Creative coding for kids](https://sites.google.com/view/creative-coding-for-kids/)
 
 * [Dash](https://dash.generalassemb.ly/)
-* [DeVry Bootcamp](https://www.devry.edu/)
 
-* [EdX](https://www.edx.org/)
 * [Egghead.io](https://egghead.io/)
 * [Enlight](https://tryenlight.github.io/)
 * [Enki](https://play.google.com/store/apps/details?id=com.enki.insights&hl=en_GB)
@@ -39,15 +57,11 @@
 * [Exercism.io](http://exercism.io/)
 
 * [Famous.co](https://famous.co/)
-* [Free Code Camp](https://learn.freecodecamp.org/)
-* [Free online university courses](https://medium.freecodecamp.org/200-universities-just-launched-560-free-online-courses-heres-the-full-list-d9dd13600b04)
 * [Frontend Masters](https://frontendmasters.com/)
 
 * [Khan Academy - Computing](https://www.khanacademy.org/computing)
 
 * [Learn to code](https://aartik1.github.io/index.html)
-* [LinkedIn Learning](https://www.linkedin.com/learning/) // The same content as on Lynda.com, but you get Premium LinkedIn account with it
-* [Lynda.com](http://www.lynda.com/)
 
 * [MYnd Kraft](https://www.myndkraft.games/)
 
@@ -57,17 +71,13 @@
 * [Py](https://www.getpy.com/)
 
 * [Skilled up](https://www.crunchbase.com/organization/skilledup#section-overview)
-* [Sitepoint](https://www.sitepoint.com/)
 * [Sololearn](https://www.sololearn.com/)
 
-* [Team Treehouse](https://teamtreehouse.com/)
-* [The Odin Project](https://www.theodinproject.com/home)
 * [10 day bootcamp intro to tech](https://learn.skillcrush.com/skillcrush-10-day-bootcamp/)
 * [10 principles for keeping your programming code clean](https://onextrapixel.com/10-principles-for-keeping-your-programming-code-clean/)
 * [Tutorialzine](https://tutorialzine.com/)
 
 * [Udacity](https://eu.udacity.com/)
-* [Udemy](https://www.udemy.com/)
 
 
 ## Computer Science
