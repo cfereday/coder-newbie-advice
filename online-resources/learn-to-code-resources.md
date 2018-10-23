@@ -86,6 +86,7 @@
 * [Git Immersion](http://gitimmersion.com/)
 * [How to use git pull](https://medium.com/@pinglinh/how-to-use-git-pull-80ad77a8afc6)
 * [Udacity, Version control](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+* [Git-it desktop app](https://github.com/jlord/git-it-electron)
 
 
 ## JavaScript & Node
@@ -102,6 +103,7 @@
 * [Learn Ruby the hard way](https://learnrubythehardway.org/)
 * [Ruby Monstas](http://rubymonstas.org/)
 * [Ruby Koans](http://rubykoans.com/)
+* [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
 
 ## Python
 
@@ -129,5 +131,14 @@
 * [Learn C#](https://learncs.org/)
 * [C# Fundamentals: Development for absolute Beginners](https://channel9.msdn.com/Series/C-Sharp-Fundamentals-Development-for-Absolute-Beginners)
 * [.NET Core C# Koans](https://github.com/NotMyself/DotNetCoreKoans)
+
+## Regular Expressions
+
+* [RegExr](https://regexr.com/)
+* [The Bastards Book of Regular Expressions](http://regex.bastardsbook.com/)
+
+## Haskell
+
+* [You Learn Haskell for Great Good](http://learnyouahaskell.com/chapters)
 
 
