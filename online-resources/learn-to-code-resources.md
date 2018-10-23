@@ -20,6 +20,7 @@
 * [Codebar Tutorials](http://tutorials.codebar.io/)
 * [Coderbyte](https://coderbyte.com/)
 * [Code Avengers](https://www.codeavengers.com/)
+* [CodeHS - Various Languages](https://codehs.com/info/curriculum)
 * [Code Kingdoms](https://codekingdoms.com/)
 * [Codelabs](https://codelabs.developers.google.com/)
 * [Code.org](https://code.org/)
@@ -70,6 +71,7 @@
 
 * [Base CS](https://medium.com/basecs)
 * [Online Computer Science Glossary](https://www.quickbase.com/articles/online-computer-science-glossary)
+* [Crash Course Computer Science](https://www.youtube.com/playlist?list=PLME-KWdxI8dcaHSzzRsNuOLXtM2Ep_C7a)
 
 ## Data Science
 
@@ -106,6 +108,7 @@
 ## Python
 
 * [Learn Python the hard way](http://learnpythonthehardway.org/)
+* [UAlberta Problem Solving, Programming, and Video Games](https://www.coursera.org/learn/problem-solving-programming-video-games)
 
 ## TDD (Test Driven Development)
 
