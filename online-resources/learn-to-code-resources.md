@@ -46,6 +46,7 @@
 * [Code Kingdoms](https://codekingdoms.com/)
 * [Code.org](https://code.org/)
 * [Code First Girls: Teach Yourself](https://www.codefirstgirls.org.uk/teach-yourself.html)
+* [CodeSignal](https://codesignal.com/)
 * [Creative coding for kids](https://sites.google.com/view/creative-coding-for-kids/)
 
 * [Dash](https://dash.generalassemb.ly/)
