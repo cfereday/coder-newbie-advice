@@ -89,6 +89,9 @@
 * [Algorithmic Art](https://www.meetup.com/Algorithmic-Art/)
     * Monthly meetup about maths & code making art
     
+* [24PullRequests](https://24pullrequests.com/dashboard)
+    * Annual meetup to help beginners learn more about git & version control, but open pull requests on open source projects
+    
 ### Glasgow
 
 * [Glasgow Clojurians](https://www.meetup.com/Glasgow-Software-Development-Meetup/)
