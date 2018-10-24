@@ -108,7 +108,7 @@
 
 
 ## JavaScript & Node
-
+* [30 Seconds of Code](https://30secondsofcode.org/) (JavaScript snippets)
 * [Beginner's JavaScript](https://node-girls.gitbook.io/beginners-javascript)
 * [Introduction to Node JS & Express](https://node-girls.gitbook.io/intro-to-express)
 
