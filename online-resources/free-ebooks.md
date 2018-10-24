@@ -4,6 +4,7 @@
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
 * [Eloquent JavaScript](https://eloquentjavascript.net/) by Marijn Haverbeke
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read) by Reg Braithwaite
+* [Front-End Developers Handbook](https://frontendmasters.com/books/front-end-handbook/2018/) by Cody Lindley
 
 ## Python
 * [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
