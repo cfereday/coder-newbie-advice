@@ -107,5 +107,5 @@
    
 ### Manchester
 
-* [CodeUp Manchester] (https://www.meetup.com/CodeUpManchester/)
+* [CodeUp Manchester](https://www.meetup.com/CodeUpManchester/)
    * Monthly meetup to learn code in general
