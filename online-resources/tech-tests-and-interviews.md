@@ -2,6 +2,7 @@
 
 ## Tech Tests & Interviews
 
+* [30 seconds of (JavaScript) interviews](https://30secondsofinterviews.org/)
 * [The essential guide to take home coding challenges](https://medium.freecodecamp.org/the-essential-guide-to-take-home-coding-challenges-a0e746220dd7)
 * [The ultimate guide to kicking ass on take home coding challenges](https://www.fullstackinterviewing.com/2018/02/02/the-ultimate-guide-to-kicking-ass-on-take-home-coding-challenges.html)
 * [How I solve problems](https://blog.makersacademy.com/how-i-solve-problems-a6a84d167598)
@@ -12,10 +13,16 @@
 * [JS specific - The Definitive JavaScript Handbook for your next developer interview](https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e)
 * [Learn about Scalability to use in System Design Interview - Harvard summer school lecture](https://www.youtube.com/watch?v=-W9F__D3oY4)
 
+### Practice
+
+* [CodeSignal](https://codesignal.com/)
+* [CodeWars](https://www.codewars.com/)
+* [freeCodeCamp](https://learn.freecodecamp.org/)
+* [HackerRank](https://www.hackerrank.com/)
+
 ## Tech CV
 
 * [Consider creating one on Github - here's an example](https://github.com/charlottebrf/CV)
 * [How to write a killer technical CV](https://medium.com/tech-ladies/how-to-ace-your-next-technical-interview-with-katie-thomas-self-taught-software-engineer-at-google-2448d71bd5e7)
 * [Screening technical CVs](https://medium.com/@stevebennett/screening-technical-cvs-7ed4b843469a)
-
 
