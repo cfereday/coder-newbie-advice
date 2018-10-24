@@ -72,6 +72,7 @@
 
 * [Programming Hub](https://www.programminghub.io/)
 * [Py](https://www.getpy.com/)
+* [PluralSight] (https://www.pluralsight.com)
 
 * [Skilled up](https://www.crunchbase.com/organization/skilledup#section-overview)
 * [Sololearn](https://www.sololearn.com/)
