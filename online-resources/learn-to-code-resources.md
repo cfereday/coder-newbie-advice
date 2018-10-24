@@ -46,6 +46,7 @@
 * [Code Kingdoms](https://codekingdoms.com/)
 * [Code.org](https://code.org/)
 * [Code First Girls: Teach Yourself](https://www.codefirstgirls.org.uk/teach-yourself.html)
+* [CodeSignal](https://codesignal.com/)
 * [Creative coding for kids](https://sites.google.com/view/creative-coding-for-kids/)
 
 * [Dash](https://dash.generalassemb.ly/)
@@ -71,6 +72,7 @@
 
 * [Programming Hub](https://www.programminghub.io/)
 * [Py](https://www.getpy.com/)
+* [PluralSight] (https://www.pluralsight.com)
 
 * [Skilled up](https://www.crunchbase.com/organization/skilledup#section-overview)
 * [Sololearn](https://www.sololearn.com/)
@@ -107,7 +109,7 @@
 
 
 ## JavaScript & Node
-
+* [30 Seconds of Code](https://30secondsofcode.org/) (JavaScript snippets)
 * [Beginner's JavaScript](https://node-girls.gitbook.io/beginners-javascript)
 * [Introduction to Node JS & Express](https://node-girls.gitbook.io/intro-to-express)
 
@@ -161,3 +163,7 @@
 * [You Learn Haskell for Great Good](http://learnyouahaskell.com/chapters)
 
 
+##Free Lynda Account
+Most public libraries have a connection with an affiliate lynda This relationship allows for public library card holder to get free account with lynda. Lynda is an online resource that has course that cover most things in the coding world
+
+* [Lynda](https://www.lynda.com) 

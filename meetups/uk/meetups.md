@@ -96,3 +96,8 @@
     
 * [Python Glasgow](https://www.meetup.com/Python-Glasgow/)
    * Monthly meetup to learn Python  
+   
+ ### Bristol
+  
+* [Codehub Bristol](https://www.meetup.com/codehub-bristol/)
+   * Hack nights, study groups and Python Code Dojos, open to all
