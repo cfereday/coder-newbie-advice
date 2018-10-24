@@ -59,6 +59,8 @@
 * [Famous.co](https://famous.co/)
 * [Frontend Masters](https://frontendmasters.com/)
 
+* [Glitch](https://glitch.com/)
+
 * [Khan Academy - Computing](https://www.khanacademy.org/computing)
 
 * [Learn to code](https://aartik1.github.io/index.html)
@@ -136,6 +138,7 @@
 * [W3 Schools](https://www.w3schools.com/)
 * [Webdesign in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 * [Webapps for Beginners](http://webapps-for-beginners.rubymonstas.org/)
+* [Wes Bos Web Development Courses](https://wesbos.com/courses/)
 
 ## UX/UI
 
