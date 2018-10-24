@@ -104,3 +104,8 @@
   
 * [Codehub Bristol](https://www.meetup.com/codehub-bristol/)
    * Hack nights, study groups and Python Code Dojos, open to all
+   
+### Manchester
+
+* [CodeUp Manchester] (https://www.meetup.com/CodeUpManchester/)
+   * Monthly meetup to learn code in general
