@@ -124,6 +124,7 @@
 * [Ruby Monstas](http://rubymonstas.org/)
 * [Ruby Koans](http://rubykoans.com/)
 * [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
+* [Dangarland.co.uk - low cost Ruby courses with online mentoring](https://www.dangarland.co.uk)
 
 ## Python
 
@@ -167,4 +168,4 @@
 ##Free Lynda Account
 Most public libraries have a connection with an affiliate lynda This relationship allows for public library card holder to get free account with lynda. Lynda is an online resource that has course that cover most things in the coding world
 
-* [Lynda](https://www.lynda.com) 
+* [Lynda](https://www.lynda.com)
