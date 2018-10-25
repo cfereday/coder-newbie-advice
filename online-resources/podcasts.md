@@ -5,3 +5,5 @@
 * [Developer tea](https://developertea.simplecast.fm/)
 * [Syntax](https://syntax.fm/)
 * [Coding Blocks](https://www.codingblocks.net/)
+* [SoftSkills Engineering](https://softskills.audio/)
+* [Behind The Tech](https://behindthetech.libsynpro.com/)
