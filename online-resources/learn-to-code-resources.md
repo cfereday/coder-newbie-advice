@@ -164,8 +164,12 @@
 
 * [You Learn Haskell for Great Good](http://learnyouahaskell.com/chapters)
 
-
-##Free Lynda Account
+## Free Lynda Account
 Most public libraries have a connection with an affiliate lynda This relationship allows for public library card holder to get free account with lynda. Lynda is an online resource that has course that cover most things in the coding world
 
 * [Lynda](https://www.lynda.com)
+
+## APIs
+
+* [An intro to APIs](https://www.codenewbie.org/blogs/an-intro-to-apis)
+* [A collective list of free APIs for use in software and web development](https://github.com/toddmotto/public-apis)
