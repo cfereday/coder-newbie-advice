@@ -2,7 +2,7 @@
 
 ## Nazareth
 
-* [Founders & Coders](https://foundersandcoders.com/):
+* [Founders & Coders](https://foundersandcoders.com/)
     * 16 week bootcamp
     * Fullstack Node & JavaScript, Engineering project
     * Hiring Partners & opportunity to volunteer afterwards to 'pay it forwards'
