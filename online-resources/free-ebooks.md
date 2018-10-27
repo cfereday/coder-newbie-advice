@@ -11,8 +11,8 @@
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) by Brian Lonsdorf
 
 ## Python
-* [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
-* [Pieter Spronck. The Coder’s Apprentice: Learning Programming with Python 3, 2017.](http://www.spronck.net/pythonbook/)
+* [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/) by Zed A. Shaw
+* [The Coder’s Apprentice: Learning Programming with Python 3, 2017.](http://www.spronck.net/pythonbook/) by Pieter Spronck
 
 ## Ruby
-* [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
+* [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) by Zed A. Shaw
