@@ -13,7 +13,6 @@
 ## Python
 * [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
 * [Pieter Spronck. The Coder’s Apprentice: Learning Programming with Python 3, 2017.](http://www.spronck.net/pythonbook/)
-* [Pieter Spronck. The Coder’s Apprentice: Learning Programming with Python 3, 2017.](http://www.spronck.net/pythonbook/)
 
 ## Ruby
 * [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
