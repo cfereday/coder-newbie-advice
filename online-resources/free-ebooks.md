@@ -8,9 +8,11 @@
 * [JavaScript Enlightenment](http://javascriptenlightenment.com/) by Cody Lindley
 * [DOM Enlightenment](http://domenlightenment.com/) by Cody Lindley
 * [Front-End Developers Handbook](https://frontendmasters.com/books/front-end-handbook/2018/) by Cody Lindley
+* [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) by Brian Lonsdorf
 
 ## Python
 * [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
+* [Pieter Spronck. The Coder’s Apprentice: Learning Programming with Python 3, 2017.](http://www.spronck.net/pythonbook/)
 * [Pieter Spronck. The Coder’s Apprentice: Learning Programming with Python 3, 2017.](http://www.spronck.net/pythonbook/)
 
 ## Ruby
