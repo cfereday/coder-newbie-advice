@@ -8,6 +8,7 @@
 * [Resources for women arriving at or returning to IT](https://insimpleterms.blog/2017/10/13/resources-for-women-arriving-at-or-returning-to-it/)
 * [Notes to a Junior Developer from a Tech Lead](https://medium.com/@charlottebrf/notes-to-a-junior-developer-from-a-tech-lead-599e4ab7aac4)
 * [Unicornelia blog](http://unicornelia.com/coding-resources/)
+* [Checklist for Getting a Job] (https://www.notion.so/jsjoeio/Checklist-for-Getting-a-Job-1a4d673b06c048b8b1aec13d735939ad)
 * [CodeNewbie community of programmers and people learning to code](https://www.codenewbie.org)
 
 ## Resources with certificates options
