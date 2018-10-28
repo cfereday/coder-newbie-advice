@@ -1,5 +1,7 @@
 # Meetups: learn to code
 
+This includes a list of meetups where you can turn up to and learn to code (as opposed to mainly talk-based meetups). 
+Many of these meetups will have coaches or people willing to help you if needed.
 
 ## For underrepresented groups
 
