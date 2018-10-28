@@ -10,7 +10,6 @@ Many of these meetups will have coaches or people willing to help you if needed.
 * [Afrotech Fest](https://www.afrotechfest.co.uk/)
    * A tech festival by and for Black people of African and Caribbean heritage
 
-
 * [Code First Girls: Free Community Courses](https://www.codefirstgirls.org.uk/free-community-courses.html)
     * Courses run at specific times of year: Spring, Summer, Autumn
     * Courses run in a classroom style of max 30 students to min 2 Instructors    
@@ -22,6 +21,9 @@ Many of these meetups will have coaches or people willing to help you if needed.
     * Frequency of meetup depends on location: commonly weekly, in some high demand locations (e.g. London) runs bi-weekly
     * One or two on one tuition with an Instructor
     * Many different tutorial options, from HTML & CSS to Python. Full details [here](http://tutorials.codebar.io/)
+    
+* [Django Girls](https://djangogirls.org/events/)
+    * Free programming workshops for women focusing on Django, an open source web framework written in Python
 
 * [Node Girls](https://nodegirls.com/)
     * JavaScript & Node JS workshops
