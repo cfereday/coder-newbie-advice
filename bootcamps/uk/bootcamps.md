@@ -1,16 +1,15 @@
-#Bootcamps
-
+# Bootcamps
 
 ## London 
 
-* [Founders & Coders](https://foundersandcoders.com/):
+* [Founders & Coders](https://foundersandcoders.com/)
     * 16 week bootcamp
     * Fullstack Node & JavaScript, Engineering project
     * Hiring Partners & opportunity to volunteer afterwards to 'pay it forwards'
     * See the Open Source curriculum [here](https://github.com/foundersandcoders/info/blob/master/curriculum.md)
     
 
-* [Code First Girls](https://www.codefirstgirls.org.uk/):
+* [Code First Girls](https://www.codefirstgirls.org.uk/)
     * 16 week bootcamp 
     * Web development (CSS, HTML, JavaScript, UX, UI), Programming in Python, Databases, Testing/Test driven development, Agile* and the basics of Cybersecurity. 
     * Digital Intensive Program in partnership with BT technology teams
