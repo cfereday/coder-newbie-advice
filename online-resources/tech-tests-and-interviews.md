@@ -2,6 +2,7 @@
 
 ## Tech Tests & Interviews
 
+* [Checklist for Getting a Job](https://www.notion.so/jsjoeio/Checklist-for-Getting-a-Job-1a4d673b06c048b8b1aec13d735939ad)
 * [30 seconds of (JavaScript) interviews](https://30secondsofinterviews.org/)
 * [The essential guide to take home coding challenges](https://medium.freecodecamp.org/the-essential-guide-to-take-home-coding-challenges-a0e746220dd7)
 * [The ultimate guide to kicking ass on take home coding challenges](https://www.fullstackinterviewing.com/2018/02/02/the-ultimate-guide-to-kicking-ass-on-take-home-coding-challenges.html)
