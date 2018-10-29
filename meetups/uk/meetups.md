@@ -52,6 +52,9 @@ Many of these meetups will have coaches or people willing to help you if needed.
 * [Tech Mums](http://techmums.co/)
     * Tech Taster & Python learning
 
+### Scotland
+
+* [Scotland Women in Tech](https://twitter.com/Scot_WIT)
 
 ### London
 
@@ -68,11 +71,11 @@ Many of these meetups will have coaches or people willing to help you if needed.
  
  ### Leeds
 
-* [Ladies of Code Leeds] (https://www.meetup.com/Ladies-of-Code-Leeds/)
+* [Ladies of Code Leeds](https://www.meetup.com/Ladies-of-Code-Leeds/)
 
 
 ### Edinburgh
-* [Women Who Code Edinburgh] (https://www.meetup.com/Women-Who-Code-Edinburgh/)
+* [Women Who Code Edinburgh](https://www.meetup.com/Women-Who-Code-Edinburgh/)
 
 ## For all groups
 
