@@ -64,6 +64,15 @@ Many of these meetups will have coaches or people willing to help you if needed.
 
  * [Women Drive Development](http://womendrivendev.org)
     *  Hackathons
+    
+ 
+ ### Leeds
+
+*[Ladies of Code Leeds] (https://www.meetup.com/Ladies-of-Code-Leeds/)
+
+
+### Edinburgh
+*[Women Who Code Edinburgh] (https://www.meetup.com/Women-Who-Code-Edinburgh/)
 
 ## For all groups
 
@@ -119,3 +128,6 @@ Many of these meetups will have coaches or people willing to help you if needed.
 
 * [CodeUp Manchester](https://www.meetup.com/CodeUpManchester/)
    * Monthly meetup to learn code in general
+   
+
+
