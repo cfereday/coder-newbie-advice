@@ -12,6 +12,22 @@ The current information I've collated includes:
 * Meetup groups where you can learn to code for free
 * Free online resources for: learning to code, podcasts, e-books, tech tests, interviews & cvs
 
+## Content
+
+### Bootcamps
+* [Germany/Austria/Switzerland](bootcamps/d-a-ch/bootcamps.md)
+* [Israel](bootcamps/Israel/bootcamps.md)
+* [United Kingdom](bootcamps/uk/bootcamps.md)
+
+### Meetups
+* [Germany/Austria/Switzerland](meetups/d-a-ch/meetups.md)
+* [United Kingdom](meetups/uk/meetups.md)
+
+### Online Resources
+* [Free E-Books](online-resources/free-ebooks.md)
+* [Learn To Code Resources](online-resources/learn-to-code-resources.md)
+* [Podcasts](online-resources/podcasts.md)
+* [Tests/Interviews/CV](online-resources/tech-tests-and-interviews.md)
 
 ## Contribute
 

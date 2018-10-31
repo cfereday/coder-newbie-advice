@@ -52,6 +52,7 @@
 * [Creative coding for kids](https://sites.google.com/view/creative-coding-for-kids/)
 
 * [Dash](https://dash.generalassemb.ly/)
+* [Derek Banas Learn in One Video Playlist](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY)
 
 * [Egghead.io](https://egghead.io/)
 * [Enlight](https://tryenlight.github.io/)
@@ -100,12 +101,14 @@
 
 ## Databases
 
+* [DB Fiddle](https://www.db-fiddle.com/)
 * [MongoDB](https://university.mongodb.com/)
 * [SQL](http://www.sqlcourse.com/intro.html)
 
 ## Git & Command Line
 
 * [Git Immersion](http://gitimmersion.com/)
+* [Git Basics In 20 Minutes](https://youtu.be/IHaTbJPdB-s)
 * [How to use git pull](https://medium.com/@pinglinh/how-to-use-git-pull-80ad77a8afc6)
 * [Udacity, Version control](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 * [Git-it desktop app](https://github.com/jlord/git-it-electron)
@@ -141,7 +144,9 @@
 
 
 ## Web Development
-
+* [CodePen](https://codepen.io/)
+* [Code Sandbox](https://codesandbox.io/)
+* [MDN Web Docs](https://developer.mozilla.org)
 * [W3 Schools](https://www.w3schools.com/)
 * [Webdesign in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 * [Webapps for Beginners](http://webapps-for-beginners.rubymonstas.org/)
