@@ -96,6 +96,10 @@
 ## Data Science
 
 * [The open source data science Masters](http://datasciencemasters.org/)
+* [The School of AI](https://www.theschool.ai/)
+* [Learn Python for Data Science](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
+* [DataCamp](https://www.datacamp.com/) -- Some courses are free, but $29 per month for full access
+
 
 
 ## Databases
