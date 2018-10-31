@@ -1,4 +1,4 @@
-# coder-newbie-advice
+# Coder Newbie Advice
 
 ## About
 
