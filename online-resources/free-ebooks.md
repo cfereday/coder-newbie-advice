@@ -10,6 +10,9 @@
 * [Front-End Developers Handbook](https://frontendmasters.com/books/front-end-handbook/2018/) by Cody Lindley
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) by Brian Lonsdorf
 
+## PHP
+* [PHP The Right Way](https://phptherightway.com/) by Josh Lockhart & Phil Sturgeon
+
 ## Python
 * [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/) by Zed A. Shaw
 * [The Coder’s Apprentice: Learning Programming with Python 3, 2017.](http://www.spronck.net/pythonbook/) by Pieter Spronck
