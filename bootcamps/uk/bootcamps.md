@@ -59,4 +59,7 @@
     * Ongoing career support
     * See more details about each course [here](https://www.manchestercodes.com/study-and-courses/courses)
     
-
+## Scotland
+* [CodeClan](https://twitter.com/CodeClanScot)
+      * Bootcamp in Glasgow or Edinburgh
+      * 16 weeks
