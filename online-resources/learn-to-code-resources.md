@@ -50,6 +50,7 @@
 * [Code First Girls: Teach Yourself](https://www.codefirstgirls.org.uk/teach-yourself.html)
 * [CodeSignal](https://codesignal.com/)
 * [Creative coding for kids](https://sites.google.com/view/creative-coding-for-kids/)
+* [Cube composer](https://david-peter.de/cube-composer/) - Learn basic programming idioms using this online cube composer game
 
 * [Dash](https://dash.generalassemb.ly/)
 * [Derek Banas Learn in One Video Playlist](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY)
