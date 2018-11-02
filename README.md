@@ -28,6 +28,7 @@ The current information I've collated includes:
 * [Learn To Code Resources](online-resources/learn-to-code-resources.md)
 * [Podcasts](online-resources/podcasts.md)
 * [Tests/Interviews/CV](online-resources/tech-tests-and-interviews.md)
+* [Getting started without installing](no-install/try-before-you-buy.md)
 
 ## Contribute
 
