@@ -13,3 +13,5 @@ These allow you to play around with technologies and languages. You are generall
 * [CodeSandbox](https://codesandbox.io/) - supports working in React, Angular, Vue, Preact and vanilla JS
 * [Ellie-app](https://ellie-app.com) - Ellie, online Elm editor
 * [Introduction to Elm](https://guide.elm-lang.org/architecture/buttons.html) - an interactive Elm tutorial using the online Ellie Elm editor
+* [Thimble HTML editor](https://thimble.mozilla.org/) - Really useful website to just start playing around with HTML without having to download a text editor onto your computer, perfect for initial toe-dipping.
+* [Superhi editor](https://www.superhi.com/student/editor) - same as above, but uses some really cool things to make it as easy as possible to just publish your first website. Comes with great support, and a whole list of great projects in their blog
