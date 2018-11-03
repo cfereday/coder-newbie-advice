@@ -20,6 +20,7 @@
 * [CodeWars](https://www.codewars.com/)
 * [freeCodeCamp](https://learn.freecodecamp.org/)
 * [HackerRank](https://www.hackerrank.com/)
+* [LeetCode](https://leetcode.com/)
 
 ## Tech CV
 
