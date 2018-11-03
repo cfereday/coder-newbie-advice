@@ -7,3 +7,4 @@
 * [Coding Blocks](https://www.codingblocks.net/)
 * [SoftSkills Engineering](https://softskills.audio/)
 * [Behind The Tech](https://behindthetech.libsynpro.com/)
+* [Learn to Code With Me](https://learntocodewith.me/podcast/)
