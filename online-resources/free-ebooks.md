@@ -16,6 +16,10 @@
 ## Python
 * [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/) by Zed A. Shaw
 * [The Coder’s Apprentice: Learning Programming with Python 3, 2017.](http://www.spronck.net/pythonbook/) by Pieter Spronck
+* [Think Python](http://greenteapress.com/wp/think-python-2e/) by Allen B. Downey
 
 ## Ruby
 * [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) by Zed A. Shaw
+
+## Java
+* [Think Java](http://greenteapress.com/wp/think-java/) by Allen Downey and Chris Mayfield
