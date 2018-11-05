@@ -4,12 +4,19 @@ In a lot of cases you can try working in a language (or with a technology) witho
 
 ## 'Try' tools
 These allow you to play around with technologies and languages. You are generally limited in how far you can go but are useful for seeing how a language or technology feels - especially if you have limited time.
-* [RabbitMQ Simulator](http://tryrabbitmq.com/) - allows you to create a simulated RabbitMQ messaging infrastructure.
-* [Learn Git Branching](https://learngitbranching.js.org/) - learning to work with Git branches. (also linked to from [Resources to learn Git](https://try.github.io/))
-* [Visualizing Git](http://git-school.github.io/visualizing-git/)- an 'under the hood' view on what happens in Git
-* [Try Haskell](https://www.tryhaskell.org/) - an interactive tutorial
-* [Klipse for Kids](http://kids.klipse.tech/) - mainly targetted at kids but is still a nice intro to Clojure coding in a browser
 
+### Sandboxes
+* [RabbitMQ Simulator](http://tryrabbitmq.com/) - allows you to create a simulated RabbitMQ messaging infrastructure.
+* [Visualizing Git](http://git-school.github.io/visualizing-git/)- an 'under the hood' view on what happens in Git
+
+### Interactive Tutorials
+* [Learn Git Branching](https://learngitbranching.js.org/) - learning to work with Git branches. (also linked to from [Resources to learn Git](https://try.github.io/))
+* [Try Haskell](https://www.tryhaskell.org/) - an interactive tutorial
+
+* [Klipse for Kids](http://kids.klipse.tech/) - mainly targetted at kids but is still a nice intro to Clojure coding in a browser
+* [Commonmark Markdown](https://commonmark.org/help/tutorial/index.html) - Interactive Markdown ("a simple way to format text that looks great on any device") tutorial
+
+### Online Editors
 * [CodeSandbox](https://codesandbox.io/) - supports working in React, Angular, Vue, Preact and vanilla JS
 * [Ellie-app](https://ellie-app.com) - Ellie, online Elm editor
 * [Introduction to Elm](https://guide.elm-lang.org/architecture/buttons.html) - an interactive Elm tutorial using the online Ellie Elm editor
