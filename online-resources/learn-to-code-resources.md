@@ -176,7 +176,7 @@
 
 ## Haskell
 
-* [You Learn Haskell for Great Good](http://learnyouahaskell.com/chapters)
+* [Learn You a Haskell for Great Good](http://learnyouahaskell.com/chapters)
 
 ## Free Lynda Account
 Most public libraries have a connection with an affiliate lynda This relationship allows for public library card holder to get free account with lynda. Lynda is an online resource that has course that cover most things in the coding world
