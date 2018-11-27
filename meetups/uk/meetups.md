@@ -51,6 +51,9 @@ Many of these meetups will have coaches or people willing to help you if needed.
 
 * [Tech Mums](http://techmums.co/)
     * Tech Taster & Python learning
+    
+* [Code Brunch](https://www.facebook.com/groups/206177746699309/)
+    * Monthly group for women, trans and non-binary people in Brighton to code together in a safe, fun and relaxed environment
 
 ### Scotland
 
@@ -68,6 +71,10 @@ Many of these meetups will have coaches or people willing to help you if needed.
  * [Women Drive Development](http://womendrivendev.org)
     *  Hackathons
     
+ ### Brighton
+ 
+ * [Code Brunch](https://www.facebook.com/groups/206177746699309/)
+    * Monthly group for women, trans and non-binary people in Brighton to code together in a safe, fun and relaxed environment
  
  ### Leeds
 
