@@ -10,20 +10,20 @@ It has subsequently been turned into a [website](http://coder-newbie.surge.sh).
 ## Current Content
 
 ### Learn to code in person: Bootcamps
-* [Germany/Austria/Switzerland](website/src/pages/bootcamps/d-a-ch.md)
-* [Israel](website/src/pages/bootcamps/israel.md)
-* [United Kingdom](website/src/pages/bootcamps/uk.md)
+* [Germany/Austria/Switzerland](./website/src/pages/bootcamps/d-a-ch.md)
+* [Israel](./website/src/pages/bootcamps/israel.md)
+* [United Kingdom](./website/src/pages/bootcamps/uk.md)
 
 ### Learn to code in person: Meetups
-* [Germany/Austria/Switzerland](website/src/pages/meetups/d-a-ch.md)
-* [United Kingdom](website/src/pages/meetups/uk.md)
+* [Germany/Austria/Switzerland](./website/src/pages/meetups/d-a-ch.md)
+* [United Kingdom](./website/src/pages/meetups/uk.md)
 
 ### Online Resources
-* [Free E-Books](website/src/pages/online-resources/free-ebooks.md)
-* [Learn To Code Resources](website/src/pages/online-resources/learn-to-code-resources.md)
-* [Podcasts](website/src/pages/online-resources/podcasts.md)
-* [Tests/Interviews/CV](website/src/pages/online-resources/tech-tests-and-interviews.md)
-* [Getting started without installing](website/src/pages/online-resources/try-before-you-buy.md)
+* [Free E-Books](./website/src/pages/online-resources/free-ebooks.md)
+* [Learn To Code Resources](./website/src/pages/online-resources/learn-to-code-resources.md)
+* [Podcasts](./website/src/pages/online-resources/podcasts.md)
+* [Tests/Interviews/CV](./website/src/pages/online-resources/tech-tests-and-interviews.md)
+* [Getting started without installing](./website/src/pages/online-resources/try-before-you-buy.md)
 
 
 ## Getting started
