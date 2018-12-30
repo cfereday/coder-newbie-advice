@@ -2,28 +2,56 @@
 
 ## About
 
-This repository of files has been created to be a useful source of information for people interested in learning to code for free. 
-You don't have to spend a lot of money to learn to code. There are many free resources and groups that can help you. Don't let money stop you. We need more diversity in tech and so often the blockers are lack of information and money. I hope this can help make a positive change for our industry, because we need greater diversity to create better software. 
+This project started life as a repository of files has been created to be a useful source of information for people interested in learning to code for free.We need more diversity in tech and so often the blockers are lack of information and money. I hope this can help make a positive change for our industry, because we need greater diversity to create better software.
+
+It has subsequently been turned into a [website](http://coder-newbie.surge.sh).
+
  
-It's starting as a series of markdown files, but the plan is to turn it into a website. Bootcamps & meetups are currently mainly limited to the UK. Would welcome more contributions from other Countries. Also, be aware this is currently all for English speakers, it would be great to have resources for languages other than English.
+## Current Content
 
-## Content
+### Learn to code in person: Bootcamps
+* [Germany/Austria/Switzerland](website/src/pages/bootcamps/d-a-ch.md)
+* [Israel](website/src/pages/bootcamps/israel.md)
+* [United Kingdom](website/src/pages/bootcamps/uk.md)
 
-### Bootcamps
-* [Germany/Austria/Switzerland](bootcamps/d-a-ch/bootcamps.md)
-* [Israel](bootcamps/Israel/bootcamps.md)
-* [United Kingdom](bootcamps/uk/bootcamps.md)
-
-### Meetups
-* [Germany/Austria/Switzerland](meetups/d-a-ch/meetups.md)
-* [United Kingdom](meetups/uk/meetups.md)
+### Learn to code in person: Meetups
+* [Germany/Austria/Switzerland](website/src/pages/meetups/d-a-ch.md)
+* [United Kingdom](website/src/pages/meetups/uk.md)
 
 ### Online Resources
-* [Free E-Books](online-resources/free-ebooks.md)
-* [Learn To Code Resources](online-resources/learn-to-code-resources.md)
-* [Podcasts](online-resources/podcasts.md)
-* [Tests/Interviews/CV](online-resources/tech-tests-and-interviews.md)
-* [Getting started without installing](no-install/try-before-you-buy.md)
+* [Free E-Books](website/src/pages/online-resources/free-ebooks.md)
+* [Learn To Code Resources](website/src/pages/online-resources/learn-to-code-resources.md)
+* [Podcasts](website/src/pages/online-resources/podcasts.md)
+* [Tests/Interviews/CV](website/src/pages/online-resources/tech-tests-and-interviews.md)
+* [Getting started without installing](website/src/pages/online-resources/try-before-you-buy.md)
+
+
+## Getting started
+This site has been written using the [Gatsby](https://www.gatsbyjs.org/), framework mainly using React and the content served from the markdown files. 
+
+## Clone the repository
+`git@github.com:charlottebrf/coder-newbie-advice.git`
+
+## Running in development
+`cd website`
+
+`gatsby develop`
+
+This will launch a http://localhost:8000 port that can be developed on. 
+
+## Publishing  
+
+`gatsby build`
+
+`surge public`
+
+When the command line specifies the surge site, be sure to change it to the custom site.
+
+`http://coder-newbie.surge.sh` 
+
+More information on publishing the site using surge [here](https://www.gatsbyjs.org/tutorial/part-one/#deploying-a-gatsby-site).
+
+
 
 ## Contribute
 
