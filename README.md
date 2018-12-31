@@ -33,7 +33,7 @@ This site has been written using the [Gatsby](https://www.gatsbyjs.org/), framew
 `git@github.com:charlottebrf/coder-newbie-advice.git`
 
 ## Running in development
-`cd website`
+`cd coder-newbie-advice`
 
 `gatsby develop`
 
