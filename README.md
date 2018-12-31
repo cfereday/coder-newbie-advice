@@ -35,6 +35,8 @@ This site has been written using the [Gatsby](https://www.gatsbyjs.org/), framew
 ## Running in development
 `cd coder-newbie-advice`
 
+`npm install`
+
 `gatsby develop`
 
 This will launch a http://localhost:8000 port that can be developed on. 
