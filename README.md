@@ -16,7 +16,7 @@ It has subsequently been turned into a [website](http://coder-newbie.surge.sh).
 
 ### Learn to code in person: Meetups
 * [Germany/Austria/Switzerland](src/pages/meetups/d-a-ch.md)
-* [United Kingdom](src/pages/meetups/uk.md)
+* [United Kingdom](src/pages/meetups/uk-london.md)
 
 ### Online Resources
 * [Free E-Books](src/pages/online-resources/free-ebooks.md)

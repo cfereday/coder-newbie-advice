@@ -30,8 +30,11 @@ class MeetupsTemplate extends React.Component {
             marginTop: rhythm(-1),
           }}
         >
-          {meetups.frontmatter.city}
+          <h2>{meetups.frontmatter.city}</h2>
+          <a href={meetups.frontmatter.link}> <h2>{meetups.frontmatter.name}</h2></a>
+          <p>{meetups.frontmatter.meetup}</p>
         </p>
+        <p> </p>
         <div dangerouslySetInnerHTML={{ __html: meetups.html }} />
         <hr
           style={{
@@ -58,8 +61,12 @@ export const pageQuery = graphql`
         slug
       }
       frontmatter {
-        country
         kind
+        country
+        city
+        name
+        meetup
+        link
       }
     }
   }

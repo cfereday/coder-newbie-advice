@@ -1,6 +1,10 @@
 ---
+kind: Meetups
 country: UK
-kind: meetups
+city: London
+name: Afrotech Fest
+meetup: A tech festival by and for Black people of African and Caribbean heritage
+link: https://www.afrotechfest.co.uk/
 ---
 
 # Meetups: learn to code

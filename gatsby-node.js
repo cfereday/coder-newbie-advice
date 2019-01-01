@@ -22,8 +22,12 @@ exports.createPages = ({ graphql, actions }) => {
                     slug
                   }
                   frontmatter {
-                    country
                     kind
+                    country
+                    city
+                    name
+                    meetup
+                    link
                   }
                 }
               }
