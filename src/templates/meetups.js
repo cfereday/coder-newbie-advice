@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import get from 'lodash/get'
 
 import Layout from '../components/layout'
-import { rhythm, scale } from '../utils/typography'
+import { rhythm } from '../utils/typography'
 
 class MeetupsTemplate extends React.Component {
   render() {
@@ -12,6 +12,7 @@ class MeetupsTemplate extends React.Component {
     const siteTitle = get(this.props, 'data.site.siteMetadata.title');
     const siteDescription = meetups.excerpt;
 
+    console.log(meetups);
 
     return (
       <Layout location={this.props.location}>
@@ -20,21 +21,12 @@ class MeetupsTemplate extends React.Component {
           meta={[{ name: 'description', content: siteDescription }]}
           title={`${meetups.frontmatter.country} | ${siteTitle}`}
         />
+
+
         <h1>{meetups.frontmatter.country}</h1>
         <h1>{meetups.frontmatter.kind}</h1>
-        <p
-          style={{
-            ...scale(-1 / 5),
-            display: 'block',
-            marginBottom: rhythm(1),
-            marginTop: rhythm(-1),
-          }}
-        >
-          <h2>{meetups.frontmatter.city}</h2>
-          <a href={meetups.frontmatter.link}> <h2>{meetups.frontmatter.name}</h2></a>
-          <p>{meetups.frontmatter.meetup}</p>
-        </p>
-        <p> </p>
+        <h2>{meetups.frontmatter.city}</h2>
+
         <div dangerouslySetInnerHTML={{ __html: meetups.html }} />
         <hr
           style={{
@@ -57,17 +49,19 @@ export const pageQuery = graphql`
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
-      fields {
-        slug
-      }
-      frontmatter {
-        kind
-        country
-        city
-        name
-        meetup
-        link
-      }
+          html
+          excerpt(pruneLength: 140)
+          fields {
+            slug
+          }
+          frontmatter {
+            kind
+            country
+            city
+            name
+            meetup
+            link
+          }
     }
   }
 `

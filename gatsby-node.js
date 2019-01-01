@@ -11,28 +11,31 @@ exports.createPages = ({ graphql, actions }) => {
     resolve(
       graphql(
         `
-          {
-            allMarkdownRemark(
-              sort: { fields: [frontmatter___kind] }
-              filter: { fields: { slug: { regex: "/meetups/" } } }
-            ) {
-              edges {
-                node {
-                  fields {
-                    slug
-                  }
-                  frontmatter {
-                    kind
-                    country
-                    city
-                    name
-                    meetup
-                    link
-                  }
+         {
+          site {
+            siteMetadata {
+              title
+              author
+            }
+          }
+          allMarkdownRemark(sort: {fields: [frontmatter___kind]}, filter: {fields: {slug: {regex: "/meetups/"}}}) {
+            edges {
+              node {
+                fields {
+                  slug
+                }
+                frontmatter {
+                  kind
+                  country
+                  city
+                  name
+                  meetup
+                  link
                 }
               }
             }
           }
+        }
         `
       ).then(result => {
         if (result.errors) {
@@ -44,7 +47,7 @@ exports.createPages = ({ graphql, actions }) => {
 
         // Create blog post pages.
         meetups.forEach(meetup => {
-
+          console.log(meetup)
           createPage({
             path: meetup.node.fields.slug,
             component: meetupsTemplate,

@@ -6,6 +6,8 @@ name: Codebar
 meetup: Codebar Free regular programming workshops trying to bridge the diversity gap in tech
 link: https://codebar.io/berlin
 ---
+
+
 ## For underrepresented groups
 
 ### Across Germany, Austria and Switzerland
