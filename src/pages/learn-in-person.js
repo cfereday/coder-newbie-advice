@@ -9,19 +9,10 @@ const LearnInPerson = () => (
     <SEO title="Learn In Person" />
     <h1>Choose from a location we have information on</h1>
       <br/>
-    <Link to="/austria">Austria</Link>
+    <Link to="pages/meetups/germany.md">Germany</Link>
     <br/>
     <br/>
-    <Link to="/germany">Germany</Link>
-    <br/>
-    <br/>
-    <Link to="/israel">Israel</Link>
-    <br/>
-    <br/>
-    <Link to="/switzerland">Switzerland</Link>
-    <br/>
-    <br/>
-    <Link to="/uk">UK</Link>
+    <Link to="pages/meetups/uk.md">UK</Link>
     <br/>
     <br/>
     <Link to="/">Go back to the homepage</Link>

@@ -1,3 +1,8 @@
+---
+country: germany 
+kind: meetups
+---
+
 # Meetups: learn to code
 
 This includes a list of meetups where you can turn up to and learn to code (as opposed to mainly talk-based meetups). 
@@ -68,3 +73,5 @@ Many of these meetups will have coaches or people willing to help you if needed.
 
 * [Python Learning Nürnberg](https://www.meetup.com/de-DE/Python-Learning-Nurnberg/)
   * Weekly meetup to learn python
+
+
