@@ -28,9 +28,6 @@ exports.createPages = ({ graphql, actions }) => {
                   kind
                   country
                   city
-                  name
-                  meetup
-                  link
                 }
               }
             }
