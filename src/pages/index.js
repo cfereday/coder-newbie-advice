@@ -21,6 +21,11 @@ const IndexPage = () => (
     <Link to="/learn-online/">Learn Online</Link>
     <br/>
     <br/>
+
+    <p>Know of some great resources that we don't? Found a typo or anything else you think needs improvement?
+      Please help us make our website better and help more people learn to code by opening
+      <a href="https://github.com/charlottebrf/coder-newbie-advice/issues"> issues </a> or
+      <a href="https://github.com/charlottebrf/coder-newbie-advice/pulls"> pull requests! </a></p>
   </Layout>
 )
 
