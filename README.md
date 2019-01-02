@@ -10,10 +10,10 @@ It has subsequently been turned into a [website](http://coder-newbie.surge.sh).
 ## Current Content
 
 ### Learn to code in person: Bootcamps
-* [Austria/Germany/Israel/Switzerland/UK](src/pages/bootcamps)
+* [Multiple cities in: Austria/Germany/Israel/Switzerland/UK](src/pages/bootcamps)
 
 ### Learn to code in person: Meetups
-* [Austria/Germany/Switzerland/UK](src/pages/meetups)
+* [Multiple cities in: Austria/Germany/Switzerland/UK](src/pages/meetups)
 
 ### Learn online: Online Resources
 * [Free E-Books](src/pages/online-resources/free-ebooks.md)
