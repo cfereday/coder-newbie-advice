@@ -1,7 +1,8 @@
-# Bootcamps
-
-## Nazareth
-
+---
+kind: Bootcamps
+country: Israel
+city: Nazareth
+---
 * [Founders & Coders](https://foundersandcoders.com/)
     * 16 week bootcamp
     * Fullstack Node & JavaScript, Engineering project

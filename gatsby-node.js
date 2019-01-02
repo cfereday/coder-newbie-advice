@@ -18,7 +18,7 @@ exports.createPages = ({ graphql, actions }) => {
               author
             }
           }
-          allMarkdownRemark(sort: {fields: [frontmatter___kind]}, filter: {fields: {slug: {regex: "/meetups/"}}}) {
+          allMarkdownRemark(sort: {fields: [frontmatter___kind]}, filter: {fields: {slug: {regex: "/meetups/|/bootcamps/"}}}) {
             edges {
               node {
                 fields {

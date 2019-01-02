@@ -35,6 +35,10 @@ class MeetupsTemplate extends React.Component {
           }}
         />
 
+
+        <Link to="/learn-in-person/">Go back to Learn In Person</Link>
+        <br/>
+        <br/>
         <Link to="/">Go back to the homepage</Link>
       </Layout>
     )

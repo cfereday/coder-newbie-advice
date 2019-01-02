@@ -1,17 +1,8 @@
-# Bootcamps
-
-## Berlin
-
-* [ReDI School of Digital Integration](https://www.redi-school.org/)
-  * Non-profit digital school for tech-interested newcomers
-
-## Munich (München)
-
-* [ReDI School of Digital Integration](https://www.redi-school.org/redimunich)
-  * Non-profit digital school for tech-interested newcomers
-
-## Vienna (Wien)
-
+---
+kind: Bootcamps
+country: Austria
+city: Vienna (Wien)
+---
 * [New Austrian Coding School](https://www.newaustriancodingschool.at)
   * Programming school for everyone
   * Nine-month training program to develop coding and software development skills, free of charge
