@@ -1,5 +1,6 @@
-# Great free ebooks to learn to program and grasp computer science concepts
-
+---
+kind: Free e-books
+---
 ## JavaScript
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) by Kyle Simpson
 * [Eloquent JavaScript](https://eloquentjavascript.net/) by Marijn Haverbeke

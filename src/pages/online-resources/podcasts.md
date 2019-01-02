@@ -1,4 +1,6 @@
-# Podcasts to learn to code
+---
+kind: Podcasts
+---
 
 * [Code Newbie](https://www.codenewbie.org/podcast)
 * [Base CS](https://www.codenewbie.org/basecs)

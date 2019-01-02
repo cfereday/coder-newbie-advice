@@ -1,4 +1,6 @@
-# Online resources to learn to code
+---
+kind: Online resources
+---
 
 ## Advice for starting a career in tech
 

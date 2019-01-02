@@ -1,4 +1,6 @@
-# Online resources for tech tests & tech cvs
+---
+kind: Tech Tests and Interviews
+---
 
 ## Tech Tests & Interviews
 
