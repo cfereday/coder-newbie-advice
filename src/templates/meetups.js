@@ -2,6 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
 import get from 'lodash/get'
+import { Link } from 'gatsby'
 
 import Layout from '../components/layout'
 import { rhythm } from '../utils/typography'
@@ -24,8 +25,8 @@ class MeetupsTemplate extends React.Component {
 
 
         <h1>{meetups.frontmatter.country}</h1>
-        <h1>{meetups.frontmatter.kind}</h1>
         <h2>{meetups.frontmatter.city}</h2>
+        <h1>{meetups.frontmatter.kind}</h1>
 
         <div dangerouslySetInnerHTML={{ __html: meetups.html }} />
         <hr
@@ -33,6 +34,8 @@ class MeetupsTemplate extends React.Component {
             marginBottom: rhythm(1),
           }}
         />
+
+        <Link to="/">Go back to the homepage</Link>
       </Layout>
     )
   }
@@ -58,9 +61,6 @@ export const pageQuery = graphql`
             kind
             country
             city
-            name
-            meetup
-            link
           }
     }
   }
