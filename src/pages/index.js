@@ -13,7 +13,7 @@ const IndexPage = () => (
     <p>We need more diversity in tech and so often the blockers are lack of information and money. We need greater diversity to create better software.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
-      <p>Coding is the new literacy, Michael Pollack</p>
+      <p id="image-description"> Coding is the new literacy, Michael Pollack</p>
     </div>
     <Link class="in-person" to="/learn-in-person/">Learn in Person</Link>
     <br/>
