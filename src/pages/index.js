@@ -15,10 +15,10 @@ const IndexPage = () => (
       <Image />
       <p>Coding is the new literacy, Michael Pollack</p>
     </div>
-    <Link to="/learn-in-person/">Learn in Person</Link>
+    <Link class="in-person" to="/learn-in-person/">Learn in Person</Link>
     <br/>
     <br/>
-    <Link to="/learn-online/">Learn Online</Link>
+    <Link class="online" to="/learn-online/">Learn Online</Link>
     <br/>
     <br/>
 

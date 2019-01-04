@@ -13,7 +13,7 @@ kind: Tech Tests and Interviews
 * [JS specific - The Definitive JavaScript Handbook for your next developer interview](https://medium.freecodecamp.org/the-definitive-javascript-handbook-for-a-developer-interview-44ffc6aeb54e)
 * [Learn about Scalability to use in System Design Interview - Harvard summer school lecture](https://www.youtube.com/watch?v=-W9F__D3oY4)
 
-### Practice
+## Practice
 
 * [CodeSignal](https://codesignal.com/)
 * [CodeWars](https://www.codewars.com/)

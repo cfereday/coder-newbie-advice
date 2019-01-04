@@ -20,7 +20,7 @@ const LearnOnline = () => (
     <Link to="/online-resources/tech-tests-and-interviews">Tech tests and interviews</Link>
     <br/>
     <br/>
-    <Link to="/">Go back to the homepage</Link>
+    <Link class="homepage" to="/">Go back to the homepage</Link>
   </Layout>
 )
 

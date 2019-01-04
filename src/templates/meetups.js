@@ -5,7 +5,7 @@ import get from 'lodash/get'
 import { Link } from 'gatsby'
 
 import Layout from '../components/layout'
-import { rhythm } from '../utils/typography'
+import '../components/layout.css'
 
 class MeetupsTemplate extends React.Component {
   render() {
@@ -24,22 +24,16 @@ class MeetupsTemplate extends React.Component {
         />
 
 
-        <h1>{meetups.frontmatter.country}</h1>
+        <h1 className={""}>{meetups.frontmatter.country}</h1>
         <h2>{meetups.frontmatter.city}</h2>
         <h1>{meetups.frontmatter.kind}</h1>
 
-        <div dangerouslySetInnerHTML={{ __html: meetups.html }} />
-        <hr
-          style={{
-            marginBottom: rhythm(1),
-          }}
-        />
+        <div id="markdown" dangerouslySetInnerHTML={{ __html: meetups.html }} />
 
-
-        <Link to="/learn-in-person/">Go back to Learn In Person</Link>
+        <Link class="in-person" to="/learn-in-person/">Go back to Learn In Person</Link>
         <br/>
         <br/>
-        <Link to="/">Go back to the homepage</Link>
+        <Link class="homepage" to="/">Go back to the homepage</Link>
       </Layout>
     )
   }

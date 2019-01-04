@@ -5,7 +5,6 @@ import get from 'lodash/get'
 import { Link } from 'gatsby'
 
 import Layout from '../components/layout'
-import { rhythm } from '../utils/typography'
 
 class ResourcesTemplate extends React.Component {
   render() {
@@ -27,18 +26,14 @@ class ResourcesTemplate extends React.Component {
         <h1>{resources.frontmatter.kind}</h1>
         <h1>{resources.frontmatter.description}</h1>
 
-        <div dangerouslySetInnerHTML={{ __html: resources.html }} />
-        <hr
-          style={{
-            marginBottom: rhythm(1),
-          }}
-        />
+        <div id="markdown" dangerouslySetInnerHTML={{ __html: resources.html }} />
 
-
-        <Link to="/learn-online/">Go back to Learn Online</Link>
+        <Link class="online" to="/learn-online/">Go back to Learn Online</Link>
         <br/>
         <br/>
-        <Link to="/">Go back to the homepage</Link>
+        <Link class="homepage" to="/">Go back to the homepage</Link>
+        <br/>
+        <br/>
       </Layout>
     )
   }
