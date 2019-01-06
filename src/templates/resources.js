@@ -2,9 +2,10 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
 import get from 'lodash/get'
-import { Link } from 'gatsby'
 
 import Layout from '../components/layout'
+import NewbieLinks from '../components/newbieLinks'
+import HomeLink from '../components/homeLink'
 
 class ResourcesTemplate extends React.Component {
   render() {
@@ -28,10 +29,10 @@ class ResourcesTemplate extends React.Component {
 
         <div id="markdown" dangerouslySetInnerHTML={{ __html: resources.html }} />
 
-        <Link class="online" to="/learn-online/">Go back to Learn Online</Link>
+        <NewbieLinks description={"Learn online"} url={"/learn-online/"}/>
         <br/>
         <br/>
-        <Link class="homepage" to="/">Go back to the homepage</Link>
+        <HomeLink/>
         <br/>
         <br/>
       </Layout>

@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 
 import Layout from '../components/layout'
 import SEO from '../components/seo'
+import HomeLink from '../components/homeLink'
 
 const LearnInPerson = () => (
   <Layout>
@@ -83,7 +84,7 @@ const LearnInPerson = () => (
     <Link to="/bootcamps/uk-scotland">Bootcamps: UK, Scotland</Link>
     <br/>
     <br/>
-    <Link class="homepage" to="/">Go back to the homepage</Link>
+    <HomeLink/>
   </Layout>
 )
 

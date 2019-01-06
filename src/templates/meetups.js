@@ -2,10 +2,11 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import { graphql } from 'gatsby'
 import get from 'lodash/get'
-import { Link } from 'gatsby'
 
 import Layout from '../components/layout'
 import '../components/layout.css'
+import HomeLink from '../components/homeLink'
+import NewbieLinks from '../components/newbieLinks'
 
 class MeetupsTemplate extends React.Component {
   render() {
@@ -30,12 +31,10 @@ class MeetupsTemplate extends React.Component {
 
         <div id="markdown" dangerouslySetInnerHTML={{ __html: meetups.html }} />
 
-        {/*own component*/}
-        <Link class="in-person" to="/learn-in-person/">Go back to Learn In Person</Link>
+        <NewbieLinks description={"Learn in person"} url={"/learn-in-person/"}/>
         <br/>
         <br/>
-        {/*own component*/}
-        <Link class="homepage" to="/">Go back to the homepage</Link>
+        <HomeLink/>
       </Layout>
     )
   }
