@@ -4,6 +4,7 @@ import { Link } from 'gatsby'
 import Layout from '../components/layout'
 import Image from '../components/image'
 import SEO from '../components/seo'
+import NewbieLinks from '../components/newbieLinks'
 
 const IndexPage = () => (
   <Layout>
@@ -15,10 +16,10 @@ const IndexPage = () => (
       <Image />
       <p id="image-description"> Coding is the new literacy, Michael Pollack</p>
     </div>
-    <Link class="in-person" to="/learn-in-person/">Learn in Person</Link>
+    <NewbieLinks description={"Learn in person"} url={"/learn-in-person/"}/>
     <br/>
     <br/>
-    <Link class="online" to="/learn-online/">Learn Online</Link>
+    <NewbieLinks description={"Learn online"} url={"/learn-online/"}/>
     <br/>
     <br/>
 

@@ -30,9 +30,11 @@ class MeetupsTemplate extends React.Component {
 
         <div id="markdown" dangerouslySetInnerHTML={{ __html: meetups.html }} />
 
+        {/*own component*/}
         <Link class="in-person" to="/learn-in-person/">Go back to Learn In Person</Link>
         <br/>
         <br/>
+        {/*own component*/}
         <Link class="homepage" to="/">Go back to the homepage</Link>
       </Layout>
     )

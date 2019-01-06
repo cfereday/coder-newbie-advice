@@ -646,19 +646,6 @@ footer {
   padding-bottom: 50px;
 }
 
-.online {
-  color: cornflowerblue;
-  padding-top: 50px;
-  padding-bottom: 50px;
-}
-
-.in-person {
-  color: mediumslateblue;
-  padding-top: 50px;
-  padding-bottom: 50px;
-}
-
-
 #image-description {
   font-size: 50%;
 }

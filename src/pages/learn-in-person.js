@@ -88,3 +88,9 @@ const LearnInPerson = () => (
 )
 
 export default LearnInPerson
+
+// kind meetup or bootcamp
+//slugs to things
+// Country or city
+
+
