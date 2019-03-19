@@ -2,7 +2,7 @@
 
 ## About
 
-This project started life as a repository of files has been created to be a useful source of information for people interested in learning to code for free. We need more diversity in tech and so often the blockers are lack of information and money. I hope this can help make a positive change for our industry, because we need greater diversity to create better software.
+Coder Newbie started as a small project with a repository of files and has since evolved into a useful reference with free resources provided for aspiring coders. We need more diversity in tech and so often the blockers are lack of information and money. I hope this can help make a positive change for our industry, because we need greater diversity to create better software.
 
 It has subsequently been turned into a [website](http://coder-newbie.surge.sh).
 
