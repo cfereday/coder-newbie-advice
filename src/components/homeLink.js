@@ -10,6 +10,6 @@ const  HomeLink = ({}) => {
       </Link>
     </button>
   )
-}
+};
 
 export default HomeLink
