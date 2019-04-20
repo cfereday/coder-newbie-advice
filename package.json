@@ -20,6 +20,7 @@
     "react-dom": "^16.6.3",
     "react-helmet": "^5.2.0",
     "reactstrap": "^7.0.2",
+    "styled-components": "^4.2.0",
     "typography": "^0.16.18",
     "typography-theme-wordpress-2016": "^0.16.18"
   },
@@ -32,10 +33,19 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "format": "prettier --write \"src/**/*.js\"",
-    "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
+    "test": "jest"
   },
   "devDependencies": {
-    "prettier": "^1.15.2"
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "@babel/preset-react": "^7.0.0",
+    "babel-jest": "^24.7.1",
+    "babel-preset-gatsby": "^0.1.11",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^24.7.1",
+    "prettier": "^1.15.2",
+    "react-test-renderer": "^16.8.6",
+    "react-testing-library": "^6.1.2"
   },
   "repository": {
     "type": "git",
