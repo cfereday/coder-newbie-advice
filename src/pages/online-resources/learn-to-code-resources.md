@@ -143,6 +143,7 @@ kind: Online resources
 * [Learn Python the hard way](http://learnpythonthehardway.org/)
 * [UAlberta Problem Solving, Programming, and Video Games](https://www.coursera.org/learn/problem-solving-programming-video-games)
 * [Django Girls Django resources](https://djangogirls.org/resources/)
+* [Pythonium](https://pythonium.net/)
 
 ## TDD (Test Driven Development)
 
@@ -175,6 +176,7 @@ kind: Online resources
 
 * [RegExr](https://regexr.com/)
 * [The Bastards Book of Regular Expressions](http://regex.bastardsbook.com/)
+* [Cyrilex](https://extendsclass.com/regex-tester.html)
 
 ## Haskell
 
