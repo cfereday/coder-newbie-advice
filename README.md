@@ -54,10 +54,10 @@ More information on publishing the site using surge [here](https://www.gatsbyjs.
 
 ## Contribute
 
-Feel like something's missing? Please open a Pull Request (PR) to contribute. 
+Feel like something's missing? Please open a Pull Request (PR) to contribute, that would be helpful.
 
 Never made a PR before? Great! Make this your first one. Documentation on how to create a PR [here](https://help.github.com/articles/creating-a-pull-request/). 
 
 I've added organisations and resources that I'm aware of, but unfortunately this can't be an exhaustive list as I don't know of everything out there.
 
-Please help to share any knowledge you have by growing this repository.
+Please help to share any knowledge you have by growing this repository to help others.
