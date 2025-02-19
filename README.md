@@ -1,6 +1,6 @@
 # Coder Newbie Advice
 
-## About
+## About this project
 
 Coder Newbie started as a small project with a repository of files and has since evolved into a useful reference with free resources provided for aspiring coders. We need more diversity in tech and so often the blockers are lack of information and money. I hope this can help make a positive change for our industry, because we need greater diversity to create better software.
 
