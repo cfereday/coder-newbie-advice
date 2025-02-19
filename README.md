@@ -8,7 +8,7 @@ It has subsequently been turned into an awesome [website](http://coder-newbie.su
 
  
 ## Current Content
-
+A list of bootcamps.
 ### Learn to code in person: Bootcamps
 * [Multiple cities in: Austria/Germany/Israel/Switzerland/UK](src/pages/bootcamps)
 
