@@ -10,7 +10,7 @@
     "gatsby-plugin-manifest": "^2.0.9",
     "gatsby-plugin-react-helmet": "^3.0.2",
     "gatsby-plugin-remove-serviceworker": "^1.0.0",
-    "gatsby-plugin-sharp": "^2.0.17",
+    "gatsby-plugin-sharp": "^3.15.0",
     "gatsby-source-filesystem": "^2.0.12",
     "gatsby-transformer-remark": "^2.1.18",
     "gatsby-transformer-sharp": "^2.1.10",
